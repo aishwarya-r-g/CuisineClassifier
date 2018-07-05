@@ -48,8 +48,8 @@ These are test scores with setting the
 •	‘criterion’ parameter - ‘gini’ and ‘entropy’
 •	‘n_estimators’ parameter – 10, 100, 500
 
-||10|100|500|
-| --- | --- |
+| |10|100|500|
+| --- | --- | --- | --- |
 |Gini|	0.663259321324|	0.708001675744|	0.715961457897|
 |Entropy|	0.627398408044|	0.675994972769|	0.684625052367|
 
@@ -82,5 +82,5 @@ Tools Used:
 - Jupyter Notebook
 - Python 2
 - Libraries 
-	*pandas
-	*scikit-learn
+  - pandas
+  - scikit-learn
